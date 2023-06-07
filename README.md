@@ -1,2 +1,2 @@
 # python-project
-Inventory System
+Movie management System with Tkinter python
